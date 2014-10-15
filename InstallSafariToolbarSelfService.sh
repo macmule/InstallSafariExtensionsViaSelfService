@@ -23,6 +23,12 @@ if [ "$4" != "" ] && [ "$pathToExtension" == "" ];then
     pathToExtension=$4
 fi
 
+# Error if variable appName is empty
+if [ "$pathToExtension" == "" ]; then
+	echo "Error:  No value was specified for the pathToExtension variable..."
+	exit 1
+fi
+
 ####################################################################################################
 
 ### Launch Safari if not open
