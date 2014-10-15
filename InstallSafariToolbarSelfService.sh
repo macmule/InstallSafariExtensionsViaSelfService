@@ -1,9 +1,9 @@
 #!/bin/bash
 ####################################################################################################
 #
-# More information: https://macmule.com/
+# More information: https://macmule.com/2014/10/15/deploying-installing-safari-extensions-on-safari-6-1-7-2/
 #
-# GitRepo: https://github.com/macmule/
+# GitRepo: https://github.com/macmule/InstallSafariExtensionsViaSelfService/
 #
 # License: https://macmule.com/license/
 #
